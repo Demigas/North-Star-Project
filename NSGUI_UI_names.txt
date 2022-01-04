@@ -1,0 +1,213 @@
+Window: Maintain Student Data
+
+item           name
+_________________________________
+entry box1      idEntry
+entry box2      nameEntry
+pushbutton1     cancel
+pushbutton2     addButton 
+pushbutton3     removeButton
+pushbutton4     modButton
+label1          label1 
+label2          label2
+label3          label3
+
+Window:Maintain Course Data
+
+item           name
+_________________________________
+entry box1            crsID
+entry box2            crsName
+push button1          cancel
+push button2          addButton
+push button3          modButton
+label1                label1
+
+Student info ID Entry
+
+item           name
+_________________________________
+entry box1         idNum     
+push button1       searchButton
+
+
+
+Window:Student info Display
+
+item           name
+_________________________________
+tabel widget   infoDisplay
+label1         idNum  
+label2         stdName
+label3         date
+push button1    cancel
+
+
+
+Window:Flags Student info ID Entry
+
+item           name
+_________________________________
+entry box1             idEntry
+push button1           cancel
+push button2           searchButton
+
+
+Window:Add Modify Section or Course
+
+item           name
+_________________________________
+entry box1         crsID
+entry box2         crsSecID
+entry box3         facID
+push button1       cancel
+push button2       addButton
+push button3       modButton
+push button4       deleteButton
+label1             label1
+label2             label2
+label3             label3
+
+
+
+Window:Add Student to Course
+
+item           name
+_________________________________
+entry box1      stdID
+entry box2      crsID
+entry box3      crsSecID
+push button1    cancel
+push button2    addButton
+label1          label1
+label2          label2
+label3          label3
+
+
+
+
+
+Window:Clerk Student Info Display
+
+item           name
+_________________________________
+tabel widget   infoDisplay
+label1         idNum  
+label2         stdName
+label3         date
+push button1    cancel
+
+
+
+
+
+Window:Clerk Maintain Course Data
+
+item           name
+_________________________________
+entry box1        crsID
+entry box2        crsName
+push button1      cancel
+push button2      addButton
+push button3      modButton
+label1            label1
+
+
+Login Window
+
+item           name
+_________________________________
+
+entry box1     line
+push button1   thing 
+label1         label
+
+
+
+Window:Clerk Tools
+
+item           name
+_________________________________
+radio button1     radio1
+radio button2     radio2
+radio button3     radio3
+radio button4     radio4
+radio button5     radio5
+radio button6     radio6
+push button1      cancel
+push button2      EnterButton
+
+
+
+Window:Course search error win1
+
+item           name
+_________________________________
+entry box1      crsID
+entry box2      crsName
+push button1    cancel
+push button2    modButton
+label1          label1
+
+
+
+
+
+Window:Faculty data error win1
+
+item           name
+_________________________________
+entry box1      facID
+entry box2      facName
+push button1    cancel
+push button2    rmvButton
+push button3    addButton
+label1          label1
+
+
+*
+Window:Faculty data error win2
+
+item           name
+_________________________________
+entry box1       facID
+entry box2       facName
+push button1     cancel
+push button2     modButton
+label1           label1
+
+
+
+
+
+
+Window:Faculty data main
+
+item           name
+_________________________________
+entry box1      facID
+entry box2      facName
+push button1    cancel
+push button2    rmvButton
+push button3    addButton
+push button4    modButton
+label1          label1
+
+
+
+
+
+
+Window:Flags
+item           name
+_________________________________
+entry box1        stdID
+entry box2        crsID
+entry box3        crsSecID
+push button1      cancel
+push button2      addButton
+push button3      dfButton
+push button4      clearButton
+check box1        sltAll
+label1            label1
+label2            label2
